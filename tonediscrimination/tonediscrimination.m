@@ -1,5 +1,5 @@
 
-function output=tonediscrimination
+function output=tonediscrimination()
 %function created in order to measure the just noticeable difference in discriminating two sequential tones.
 
 
