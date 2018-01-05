@@ -4,7 +4,7 @@ This research project seeks to investigate the possibility that a background of 
 
 Code included in this repository is used for the first half of the research project - the investigation and evaluation of musical background/abilities. Simulations were created using MATLAB and PsychToolBox. Audio presentation was maintained using a MOTO Microbook II and transmitted over Sennheiser HD280 pro Closed Ear Headphones. Audio input was taken using a Shure WH30XLR head worn condenser microphone.
 
-Code included:
+Code included: Music Perception Tasks
 
 1. Survey
 
